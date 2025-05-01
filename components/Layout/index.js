@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import styles from './Layout.module.css';
+import React from 'react'
 
 function Layout ({children}) {
     return (

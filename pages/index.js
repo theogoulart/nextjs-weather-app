@@ -2,6 +2,8 @@ import fetch from 'isomorphic-unfetch';
 import Layout from '../components/Layout/index';
 import Weather from '../components/Weather/index';
 import Select from 'react-select';
+import React from 'react'
+
 
 const options = [
     { value: '3448439', label: 'São Paulo, BR' },
